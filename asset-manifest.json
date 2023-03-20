@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reazari/static/css/main.ccb889dc.css",
+    "main.js": "/Reazari/static/js/main.506fae56.js",
+    "static/media/category.jpg": "/Reazari/static/media/category.bc883481119aff2ca978.jpg",
+    "static/media/redzari2.png": "/Reazari/static/media/redzari2.42479c93447374c1e9d8.png",
+    "index.html": "/Reazari/index.html",
+    "main.ccb889dc.css.map": "/Reazari/static/css/main.ccb889dc.css.map",
+    "main.506fae56.js.map": "/Reazari/static/js/main.506fae56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb889dc.css",
+    "static/js/main.506fae56.js"
+  ]
+}
